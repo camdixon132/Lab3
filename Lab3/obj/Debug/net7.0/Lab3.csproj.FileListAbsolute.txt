@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/Lab3/Lab3/bin/Debug/net7.0/Lab3
+/Users/camerondixon/Projects/Lab3/Lab3/bin/Debug/net7.0/Lab3.deps.json
+/Users/camerondixon/Projects/Lab3/Lab3/bin/Debug/net7.0/Lab3.runtimeconfig.json
+/Users/camerondixon/Projects/Lab3/Lab3/bin/Debug/net7.0/Lab3.dll
+/Users/camerondixon/Projects/Lab3/Lab3/bin/Debug/net7.0/Lab3.pdb
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/Lab3.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/Lab3.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/Lab3.AssemblyInfo.cs
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/Lab3.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/Lab3.dll
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/refint/Lab3.dll
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/Lab3.pdb
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/Lab3.genruntimeconfig.cache
+/Users/camerondixon/Projects/Lab3/Lab3/obj/Debug/net7.0/ref/Lab3.dll
